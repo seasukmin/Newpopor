@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Newpopor/static/css/main.f855e6bc.css",
+    "main.js": "/Newpopor/static/js/main.d093597e.js",
+    "index.html": "/Newpopor/index.html",
+    "main.f855e6bc.css.map": "/Newpopor/static/css/main.f855e6bc.css.map",
+    "main.d093597e.js.map": "/Newpopor/static/js/main.d093597e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d093597e.js"
+  ]
+}
