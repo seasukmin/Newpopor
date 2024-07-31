@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Newpopor/static/css/main.f855e6bc.css",
-    "main.js": "/Newpopor/static/js/main.d093597e.js",
+    "main.css": "/Newpopor/static/css/main.ff7b00c0.css",
+    "main.js": "/Newpopor/static/js/main.8a3ea29f.js",
     "index.html": "/Newpopor/index.html",
-    "main.f855e6bc.css.map": "/Newpopor/static/css/main.f855e6bc.css.map",
-    "main.d093597e.js.map": "/Newpopor/static/js/main.d093597e.js.map"
+    "main.ff7b00c0.css.map": "/Newpopor/static/css/main.ff7b00c0.css.map",
+    "main.8a3ea29f.js.map": "/Newpopor/static/js/main.8a3ea29f.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.d093597e.js"
+    "static/css/main.ff7b00c0.css",
+    "static/js/main.8a3ea29f.js"
   ]
 }
